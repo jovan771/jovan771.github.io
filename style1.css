@@ -1,0 +1,45 @@
+.section1 {
+	background-image: url(1744894001755.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+	}
+
+.section4 {
+	background-image: url(1744892409342.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+	
+.section2 {
+	background-image: url(1744894001763.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+.section3 {
+	background-image: url(1744894001755.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+
+.card, .card-img-top {
+	border-radius: 0;
+	background-color: #D2B48C;
+}
+
+.card {
+	border: 0;
+}
+
+.text-center {
+	color: black;
+
+}
+.card-text {
+	text-align: center;
+	font-weight: bold;
+}
